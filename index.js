@@ -1,4 +1,3 @@
 <p>
-    this is class,
-    hello,good morning
+    this is class
 </p>
