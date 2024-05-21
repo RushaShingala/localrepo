@@ -1,4 +1,3 @@
 <p>
-    this is class,
-    hrllo
+    this is class
 </p>
